@@ -11,8 +11,8 @@ from bs4 import BeautifulSoup
 import time
 
 
-MFPLINK = ""     # non mettere lo / finale al link
-MFPPSW = ""
+MFPLINK = "https://giazag-idrogeno.hf.space"     # non mettere lo / finale al link
+MFPPSW = "olympus593"
 
 # Constants
 REFERER = "forcedtoplay.xyz"
